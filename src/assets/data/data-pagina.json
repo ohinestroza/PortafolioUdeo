@@ -1,0 +1,24 @@
+{
+    "titulo": "Olga Hinestroza",
+    "email": "olga.hinestroza@hotmail.com",
+    "nombre_corto": "Olga",
+    "pagina_autor": "http://google.com",
+    "facebook": "https://www.facebook.com/olga.hinestroza.58",
+    "twitter": "https://twitter.com/",
+    "instagram": "https://www.instagram.com/o_hinestroza/",
+    "tumblr": "https://www.tumblr.com/",
+    "equipo_trabajo": [{
+        "nombre": "Bryan",
+        "apellido": "Tema",
+        "dpi": "2484154",
+        "dependientes": [{
+            "nombre": "Bryan JR",
+            "apellido": "Tema",
+            "dpi": "151020"
+        }, {
+            "nombre": "Sergio",
+            "apellido": "Hinestroza",
+            "dpi": "789566"
+        }]
+    }]
+}
