@@ -1,0 +1,8 @@
+<div class="ae-grid__item item-lg-4 ae-kappa au-mb-3" *ngFor="let perro of arrPerros">
+  <img [src]="perro.imagen" alt="" class="au-mb-3">
+  <h5 class="ae-u-bolder au-mt-2">{{perro.nombre}}</h5>
+  <p class="ae-u-bolder au-mb-3">{{perro.edad}}</p>
+  <p class="ae-u-bolder au-mb-3">{{perro.sexo}}</p>
+  <p class="au-lg-ta-left au-mb-3 au-pl-4 au-pr-4">{{perro.descripcion}}</p>
+  <a class="fcc-btn" [routerLink]="['/detail', perro.id]">Clic para ver más</a> <br><br>
+</div>
